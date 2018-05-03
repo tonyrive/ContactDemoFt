@@ -1,4 +1,4 @@
-# contactdemoft
+# Contact Demo app in Flutter
 
 A new Flutter application.
 
