@@ -1,7 +1,5 @@
 # Contact Demo app in Flutter
 
-A new Flutter application.
-
 Demo app to demostrate use of Flutter.<br/>
 
 flutter/material.dart<br/>
