@@ -14,7 +14,7 @@ Demo work in progress.<br/>
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
+For help getting started with Flutter, view the online
 [documentation](https://flutter.io/).
 </div>
 
