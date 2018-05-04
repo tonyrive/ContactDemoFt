@@ -11,10 +11,10 @@ Demo work in progress.<br/>
 <img src="ContactList.png" alt="ContactList.png" height="400dp">
   
 <img src="ContactDetails.png" alt="ContactDetails.png" height="400dp">
-
+</div>
 ## Getting Started
 
 For help getting started with Flutter, view the online
 [documentation](https://flutter.io/).
-</div>
+
 
